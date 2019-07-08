@@ -1,0 +1,1 @@
+2019-02-12 00:43:45,536 - ie_serving.server.service - DEBUG - PREDICT; input deserialization completed; rotatechestfrontalv2model_ie; 1; 0.194ms
